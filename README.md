@@ -8,13 +8,14 @@
  ### Paper List
 
 
-|  Title   |  Authors/Team  |   Key Contributions    |  Source  |
-|  ----  | ----  |   ----  | ----  |
+|  Title   |   Recommender | What to Ask | Agent Module|  Source  | Chinese Blog|
+|  :----  | ----  |   ---- |   ----  | ----  | ----  |
 | [Dynamic Critiquing](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.473.9437&rep=rep1&type=pdf) |  |||
-|  [Towards Question-based Recommender System](2020SIGIR-Towards%20Question-based%20Recommender%20Systems.pdf) |  | | SIGIR'2020|
-|[Unified Conversational Recommendation Policy Learning via Graph-based Reinforcement Learning](https://arxiv.org/pdf/2105.09710.pdf)|The Chinese University of Hong Kong, Alibaba Group|| SIGIR'2021|
-|[Learning to Ask Appropriate Questions in Conversational Recommendation](https://arxiv.org/pdf/2105.04774.pdf)|The University of Queensland||SIGIR'2021|
-|[HOOPS: Human-in-the-Loop Graph Reasoning for Conversational Recommendation](waitupdate)|||SIGIR'2021|
+| [Improving Conversational Recommender Systems via Knowledge Graph based Semantic Fusion](https://arxiv.org/pdf/2007.04032.pdf)|Graph-based embeddings for user-item matching | KG-enhanced response generation (generation-based method)| KG-based dialogue system| KDD'2020| [jianshu](https://www.jianshu.com/p/02f345a356ba)|
+|  [Towards Question-based Recommender System](https://arxiv.org/pdf/2005.14255.pdf) | Matrix Factorization (online & offline) |What to Ask: descriptive item features|  Question learning: **Dir distribution**| SIGIR'2020| [jianshu](https://www.jianshu.com/p/9ca230f81ea0)|
+|[Unified Conversational Recommendation Policy Learning via Graph-based Reinforcement Learning](https://arxiv.org/pdf/2105.09710.pdf)| || |SIGIR'2021| [jianshu](https://www.jianshu.com/p/b78967c0e308)|
+|[Learning to Ask Appropriate Questions in Conversational Recommendation](https://arxiv.org/pdf/2105.04774.pdf)|| | |SIGIR'2021|[jianshu](https://www.jianshu.com/p/6010aa238b2a) |
+|[HOOPS: Human-in-the-Loop Graph Reasoning for Conversational Recommendation](waitupdate)||||SIGIR'2021|
 |||||
 |||||
 |||||
