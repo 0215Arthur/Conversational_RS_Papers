@@ -8,8 +8,8 @@
 ### Survey & Tutorials
 
 
-|  Title   |  Key contributions |  Source  | Chinese Blog|
-|  :----  | ----  |   ---- |   ----  | ----  | ----  |
+| Title   |  Key contributions |  Source  | Chinese Blog|
+|  :----  | ----  |   ---- |   ----  |
 | [Advances and Challenges in Conversational Recommender Systems: A Survey](http://staff.ustc.edu.cn/~hexn/papers/survey-draft-conv-rec-2021.pdf) |  ||
 |[sigir'2020](http://staff.ustc.edu.cn/~hexn/slides/sigir20-tutorial-CRS-slides.pdf)| |
  ### Research Paper List
